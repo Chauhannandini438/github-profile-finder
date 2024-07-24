@@ -33,4 +33,4 @@ To clone and run this project locally, you can follow these steps:
 
 ## Support
 
-If you encounter any issues or have any questions or suggestions regarding this project, please feel free to [open an issue](https://github.com/Rishabh6306/Github-Profile-Finder/issues) on the GitHub repository. Your feedback is valuable and will help improve the project. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/rishabh-srivastava-b68684262/) for any further assistance or collaboration.
+If you encounter any issues or have any questions or suggestions regarding this project, please feel free to [open an issue](https://github.com/Chauhannandini438/github-profile-finder/issues) on the GitHub repository. Your feedback is valuable and will help improve the project. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/nandini-singh-691b69236/) for any further assistance or collaboration.
